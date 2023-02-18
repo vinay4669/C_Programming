@@ -4,7 +4,7 @@
 int main(){
 
     float p, t, r, ci;
-    printf("Enter Pricipal : ");
+    printf("Enter Principal : ");
     scanf("%f", &p);
     printf("Enter Time in years : ");
     scanf("%f", &t);
